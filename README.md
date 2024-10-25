@@ -11,7 +11,7 @@ Welcome to the **Movie Search Application**! This is a powerful, user-friendly a
 
 ## Live Demo
 
-Experience the app in action: [Movie Search App Demo](https://moviesearchappapi.netlify.app/)
+Experience the app in action: [Movie Search App Demo](https://movie-app-guvi.netlify.app/)
 
 ## Technologies Used
 
